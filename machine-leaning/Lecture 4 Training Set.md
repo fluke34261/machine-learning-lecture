@@ -28,4 +28,5 @@
 
 <div><strong>h(x)</div>
 
+
 > ซึ่งแนะนำให้ทำความเข้าใจเสียก่อน [ลิ้งสอนสมการเชิงเส้น](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:linear-equations-graphs) 
