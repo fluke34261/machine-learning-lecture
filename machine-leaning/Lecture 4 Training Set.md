@@ -22,6 +22,10 @@
 
 ![Hypothesis](https://firebasestorage.googleapis.com/v0/b/selfblog-fcc59.appspot.com/o/image%2Fmachine-learning-stanford%2Fhypothesis.png?alt=media&token=42235869-6980-4362-9167-6c99c920f969)
 
-และสมการที่ Hypothesis จะอยู่ในรูปแบบของ สมการเชิงเส้น <div><strong>h<sub>θ</sub>(x) = θ<sub>0<sub> + θ<sub>1</sub>x</strong></div> หรือเรียกสั้น ๆ ได้ว่า <div><strong>h(x)</div>
+และสมการที่ Hypothesis จะอยู่ในรูปแบบของ สมการเชิงเส้น <div><strong>h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>x</strong></div> 
+
+หรือเรียกสั้น ๆ ได้ว่า 
+
+<div><strong>h(x)</div>
 
 > ซึ่งแนะนำให้ทำความเข้าใจเสียก่อน [ลิ้งสอนสมการเชิงเส้น](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:linear-equations-graphs) 
