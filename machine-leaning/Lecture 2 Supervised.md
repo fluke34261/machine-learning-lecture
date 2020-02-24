@@ -10,7 +10,7 @@ Supervised หมายถึงการที่เรามีข้อมู
 
 โดยรูปแบบ Regression จะมีไว้สำหรับการทำนายค่าที่เป็นแบบต่อเนื่อง ( Continuous Output ) เช่น ทำนายราคาจาก กราฟเส้น ราคาต่อขนาดที่ดิน
 
-![Regression](https://firebasestorage.googleapis.com/v0/b/selfblog-fcc59.appspot.com/o/image%2Fmachine-learning-stanford%2Fno-of-bed-room.png?alt=media&token=0d3c0fc4-dacd-415f-903f-b88639dcc380)
+![Regression](https://firebasestorage.googleapis.com/v0/b/selfblog-fcc59.appspot.com/o/image%2Fmachine-learning-stanford%2Fregression-line.png?alt=media&token=21289695-095e-49eb-acf6-320f32b3a72c)
 
 แต่รูปแบบ Classification จะมีไว้สำหรับการทำนายในรูปแบบไม่ต่อเนื่อง ( Discrete Output ) เช่น การจำแนกว่าเป็นรูปสัตว์หรือรูปต้นไม้
 
